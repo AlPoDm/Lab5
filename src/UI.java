@@ -8,7 +8,6 @@ import java.awt.event.FocusListener;
 
 public class UI extends JFrame{
 
-    final JButton butt = new JButton("Button");
     final JTextField putKey = new JTextField("Ключ ",10);
     final JTextField getKey = new JTextField("Ключ ",10);
     final JTextField delKey = new JTextField("Ключ ",10);
